@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The league season 2 2023-2024 fantasy football website. </p>
+  <p>The league season 2 2023-2024 fantasy football website. </p>`
   
 
 /*   STEP 3   */
